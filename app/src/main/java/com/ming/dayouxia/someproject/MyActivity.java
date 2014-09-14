@@ -21,6 +21,7 @@ public class MyActivity extends Activity {
         getMenuInflater().inflate(R.menu.my, menu);
 
         // hello this is a comment
+        // add another commment
         return true;
     }
 
